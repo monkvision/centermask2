@@ -1,9 +1,7 @@
 # Copyright (c) Youngwan Lee (ETRI) All Rights Reserved.
-# from detectron2.config.defaults import _C
-from monk.config.models import get_config_detectron2
+from detectron2.config.defaults import _C
 from detectron2.config import CfgNode as CN
 
-_C = get_config_detectron2()
 # ---------------------------------------------------------------------------- #
 # Additional Configs
 # ---------------------------------------------------------------------------- #
