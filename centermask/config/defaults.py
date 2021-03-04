@@ -2,7 +2,6 @@
 from detectron2.config.defaults import _C
 from detectron2.config import CfgNode as CN
 
-
 # ---------------------------------------------------------------------------- #
 # Additional Configs
 # ---------------------------------------------------------------------------- #
